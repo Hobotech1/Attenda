@@ -1,6 +1,6 @@
 # Attenda
 this project is an attendance register.
-run the dbscript.sql on your local sql instance to create the database.
+run script.sql on your local sql instance to create the database.
 you can find this file inside the Attenda folder where all the files are.
 you can run the app from visual studio 2019. 
 when the app launches, first register yourself as a user (teacher).
